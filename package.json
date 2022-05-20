@@ -1,0 +1,23 @@
+{
+  "name": "my-doc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://gitee.com/fy0829/doc.git",
+  "author": "樊勇 <2120084903@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-docsearch": "^2.0.0-beta.36",
+    "@vuepress/plugin-register-components": "2.0.0-beta.23",
+    "vuepress": "^2.0.0-beta.36",
+    "vuepress-plugin-auto-sidebar": "^2.4.0-alpha.4"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "@vuepress/plugin-search": "^2.0.0-beta.36",
+    "d": "^1.0.1"
+  }
+}
