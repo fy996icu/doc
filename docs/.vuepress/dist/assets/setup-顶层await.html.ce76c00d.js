@@ -1,1 +1,0 @@
-const t={key:"v-306d569d",path:"/document/vue3/setup-%E9%A1%B6%E5%B1%82await.html",title:"\u9876\u5C42 await",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648657423e3,contributors:[{name:"\u6A0A\u52C7",email:"2120084903@qq.com",commits:2}]},filePathRelative:"document/vue3/setup-\u9876\u5C42await.md"};export{t as data};
