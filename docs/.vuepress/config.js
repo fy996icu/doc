@@ -19,6 +19,7 @@ const {
 module.exports = {
   base: "/doc/",
   lang: 'zh-CN',
+  dest: "./dist",
   title: '长方体混泥土瞬间移动师',
   description: '这是我收集整理的一些技术文档',
   themeConfig: {

@@ -1,0 +1,1 @@
+import{e,o as n,j as r}from"./app.4985c1a7.js";import{_ as t}from"./plugin-vue_export-helper.21dcd24c.js";const c={};function a(_,s){const o=e("PiniaLogo");return n(),r(o)}var f=t(c,[["render",a]]);export{f as default};
