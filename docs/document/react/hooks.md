@@ -60,7 +60,7 @@ const Wrap = () => {
 
 export default Wrap;
 ```
-![img](https://gitee.com/fy0829/pics/raw/master/React/useStateExp01.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/useStateExp01.png)
 
 :::
 
@@ -100,7 +100,7 @@ const Counter = () => {
 
 export default Counter;
 ```
-![img](https://gitee.com/fy0829/pics/raw/master/React/useStateExp02.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/useStateExp02.png)
 :::
 
 **<font v-pre color="#f60">普通更新和函数式更新两种方式的区别：</font>**
@@ -143,9 +143,9 @@ const Counter = () => {
 
 export default Counter;
 ```
-![img](https://gitee.com/fy0829/pics/raw/master/React/useStateExp03.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/useStateExp03.png)
 
-![img](https://gitee.com/fy0829/pics/raw/master/React/useStateExp04.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/useStateExp04.png)
 
 :::
 
@@ -197,11 +197,11 @@ export default Wrap;
 ```
 执行：`setObj({ age: 30 });`
 
-![img](https://gitee.com/fy0829/pics/raw/master/React/useStateExp05.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/useStateExp05.png)
 
 执行：`setObj({ ...obj, age: 30 });`
 
-![img](https://gitee.com/fy0829/pics/raw/master/React/useStateExp06.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/useStateExp06.png)
 
 :::
 
@@ -230,7 +230,7 @@ const Wrap = () => {
 export default Wrap;
 ```
 
-![img](https://gitee.com/fy0829/pics/raw/master/React/useStateExp07.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/useStateExp07.png)
 
 :::
 
@@ -272,9 +272,9 @@ const Wrap = () => {
 export default Wrap;
 ```
 
-![img](https://gitee.com/fy0829/pics/raw/master/React/useStateExp08.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/useStateExp08.png)
 
-![img](https://gitee.com/fy0829/pics/raw/master/React/useStateExp09.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/useStateExp09.png)
 
 :::
 
@@ -425,7 +425,7 @@ const Wrap = () => {
 export default Wrap;
 ```
 
-![img](https://gitee.com/fy0829/pics/raw/master/React/useContextExp01.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/useContextExp01.png)
 
 :::
 
@@ -481,7 +481,7 @@ function Wrap() {
 
 export default Wrap;
 ```
-![img](https://gitee.com/fy0829/pics/raw/master/React/useLayoutEffectExp01.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/useLayoutEffectExp01.png)
 
 :::
 
@@ -559,7 +559,7 @@ const Wrap = () => {
 
 export default Wrap;
 ```
-![img](https://gitee.com/fy0829/pics/raw/master/React/ReactMemoExp01.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/ReactMemoExp01.png)
 
 :::
 
@@ -604,7 +604,7 @@ const Wrap = () => {
 export default Wrap;
 ```
 
-![img](https://gitee.com/fy0829/pics/raw/master/React/ReactMemoExp02.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/ReactMemoExp02.png)
 
 :::
 
@@ -656,7 +656,7 @@ const Wrap = () => {
 export default Wrap;
 ```
 
-![img](https://gitee.com/fy0829/pics/raw/master/React/ReactMemoExp03.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/ReactMemoExp03.png)
 
 :::
 
@@ -720,7 +720,7 @@ const Wrap = () => {
 export default Wrap;
 ```
 
-![img](https://gitee.com/fy0829/pics/raw/master/React/useMemoExp01.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/useMemoExp01.png)
 
 :::
 
@@ -824,7 +824,7 @@ const Wrap = () => {
 export default Wrap;
 ```
 
-![img](https://gitee.com/fy0829/pics/raw/master/React/useRefExp01.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/useRefExp01.png)
 
 :::
 
@@ -978,6 +978,6 @@ const Wrap = () => {
 
 export default Wrap;
 ```
-![img](https://gitee.com/fy0829/pics/raw/master/React/useImperativeHandleExp01.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/useImperativeHandleExp01.png)
 
 :::

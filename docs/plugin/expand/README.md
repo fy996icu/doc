@@ -12,7 +12,7 @@ $ yarn add @vueuse/core
 
 **插件简介：** 基本 Vue 组合实用程序的集合。
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/vueuse.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/vueuse.png)
 
 ## 数字滚动插件
 
@@ -24,7 +24,7 @@ $ yarn add vue-count-to
 
 **在线示例：** [点击查看示例](http://panjiachen.github.io/countTo/demo/)
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/vue-count-to.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/vue-count-to.png)
 
 ## 图片裁剪插件
 
@@ -36,7 +36,7 @@ $ yarn add vue-cropper
 
 **在线示例：** [点击查看示例](https://codepen.io/xyxiao001/pen/wxwKGz)
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/vue-cropper.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/vue-cropper.png)
 
 ## 根据银行账号识别开户行
 
@@ -61,7 +61,7 @@ $ yarn add @vue/composition-api
 
 **在线示例：** [点击查看示例](https://www.vue365.cn/code_demo.php?id=4920)
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/v-code-diff.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/v-code-diff.png)
 
 ## 多功能颜色选择器
 
@@ -73,7 +73,7 @@ $ yran add vue-color
 
 **在线示例：** [点击查看示例](https://www.vue365.cn/code_demo.php?id=3456)
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/vue-color.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/vue-color.png)
 
 ## 图像查看器
 
@@ -85,7 +85,7 @@ $ yarn add v-viewer
 
 **在线示例：** [点击查看示例](https://mirari.cc/v-viewer/)
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/v-viewer.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/v-viewer.png)
 
 
 ## 图像比较滑块
@@ -98,7 +98,7 @@ $ yarn add img-comparison-slider
 
 **在线示例：** [点击查看示例](https://img-comparison-slider.sneas.io/examples.html)
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/img-comparison-slider.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/img-comparison-slider.png)
 
 ## 3D模型查看器
 
@@ -110,7 +110,7 @@ $ yarn add vue-3d-model
 
 **在线示例：** [点击查看示例](https://hujiulong.github.io/vue-3d-model/#/demo-basic)
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/vue-3d-model.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/vue-3d-model.png)
 
 ## 配置环境变量插件
 
@@ -160,7 +160,7 @@ $ yarn add vuedraggable
 
 **在线示例：** [点击查看示例](https://sortablejs.github.io/Sortable/#shared-lists)
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/sortablejs.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/sortablejs.png)
 
 
 ## 全屏滚动插件
@@ -173,7 +173,7 @@ $ yarn add vue-fullpage.js
 
 **在线示例：** [点击查看示例](https://alvarotrigo.com/vue-fullpage/)
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/vue-fullpage.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/vue-fullpage.png)
 
 ## 拖动和缩放元素
 
@@ -185,7 +185,7 @@ $ yarn add vue-draggable-resizable
 
 **在线示例：** [点击查看示例](https://mauricius.github.io/vue-draggable-resizable/?path=/story/basic--basic-component)
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/VueDraggableResizable.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/VueDraggableResizable.png)
 
 
 ## 长按指令
@@ -198,7 +198,7 @@ $ yarn add vue-long-click
 
 **在线示例：** [点击查看示例](https://ittus.github.io/vue-long-click/)
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/vue-long-click.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/vue-long-click.png)
 
 ## 国家地区标志
 
@@ -210,7 +210,7 @@ $ yarn add @growthbunker/vueflags
 
 **在线示例：** [点击查看示例](https://www.growthbunker.dev/vueflags/)
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/vueflags.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/vueflags.png)
 
 ## 签名绘图
 
@@ -222,7 +222,7 @@ $ yarn add v-perfect-signature
 
 **在线示例：** [点击查看示例](https://wobsoriano.github.io/v-perfect-signature/)
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/v-perfect-signature.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/v-perfect-signature.png)
 
 ## 签名板
 
@@ -234,7 +234,7 @@ $ yarn add vue-signature-pad
 
 **在线示例：** [点击查看示例](https://codesandbox.io/s/n5qjp3oqv4?file=/src/App.vue)
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/vue-signature-pad.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/vue-signature-pad.png)
 
 ## 时钟
 
@@ -246,7 +246,7 @@ $ yarn add vue-clock2
 
 **在线示例：** [点击查看示例](https://bestvist.github.io/vue-clock2/docs/)
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/vue-clock2.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/vue-clock2.png)
 
 ## 轻量级图片上传
 
@@ -260,7 +260,7 @@ $ yarn add vue-core-image-upload
 
 **插件简介：** vue-core-image-upload 是一款轻量级的 Vue.js 上传插件，它可以支持的图片的上传，裁剪，压缩。它同样也支持在移动端的图片处理，它定义了诸多上传周期，你可以自由的进行流程控制。
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/vue-core-image-upload.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/vue-core-image-upload.png)
 
 ## 粒子特效
 
@@ -274,7 +274,7 @@ $ yarn add vue-particles
 
 **插件简介：** 类似于星座图的点和线，是由vue-particles生成的，不仅自己动，而且能与用户鼠标事件产生互动。
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/vue-particles.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/vue-particles.png)
 
 ## 滚屏切换
 
@@ -288,7 +288,7 @@ $ yarn add mv-full-page
 
 **插件简介：** 一款兼容PC端移动端的Vue全屏滚动组件。
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/mv-full-page.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/mv-full-page.png)
 
 ## 新手指引
 
@@ -302,7 +302,7 @@ $ yarn add vue-tour
 
 **插件简介：** Vue Tour是轻巧、简单且可自定义的新手指引插件，可与Vue.js一起使用。它提供了一种快速简便的方法来指导用户使用您的应用程序。
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/vue-tour.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/vue-tour.png)
 
 ## 设置滚动驱动的交互
 
@@ -316,7 +316,7 @@ $ yarn add vue-scrollama
 
 **插件简介：** 一个Vue组件，可轻松设置滚动驱动的交互（又称滚动讲演）。 
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/vue-scrollama.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/vue-scrollama.png)
 
 ## 栅格布局系统
 
@@ -330,7 +330,7 @@ $ yarn add vue-grid-layout
 
 **插件简介：** 一个类似于Gridster的栅格布局系统, 适用于Vue.js。灵感源自于[React-Grid-Layout](/doc/plugin/expand/react插件.html#栅格布局系统)。 
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/vue-grid-layout.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/vue-grid-layout.png)
 
 ## Chart图表库
 
@@ -344,7 +344,7 @@ $ yarn add vue-chartjs chart.js
 
 **插件简介：** 使用 Chart.js 和 Vue.js 的简单漂亮的图表。
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/vue-chartjs.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/vue-chartjs.png)
 
 ## HTML meta管理器
 
@@ -362,7 +362,7 @@ $ yarn add vue-meta
 
 - metaInfo 的数据都是响应的，如果数据变化，头部信息会自动更新。
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/vue-meta.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/vue-meta.png)
 
 ## Vuex 持久化状态
 

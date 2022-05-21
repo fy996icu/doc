@@ -61,6 +61,6 @@ console.log(slots)
 
 示例输出结果如下：
 
-![img](https://gitee.com/fy0829/pics/raw/master/Vue/useSlots%E5%92%8CuseAttrs.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/useSlots%E5%92%8CuseAttrs.png)
 
 `useSlots` 和 `useAttrs` 是真实的 `运行时函数`，它会返回与 `setupContext.slots` 和 `setupContext.attrs` 等价的值，同样也能在普通的 composition API 中使用。

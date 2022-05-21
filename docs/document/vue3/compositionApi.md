@@ -9,7 +9,7 @@ Composition API又叫组合式 API。
 
 **选项式API 和 组合式 API图例**
 
-![api对比图](https://gitee.com/fy0829/pics/raw/master/Vue/api%E5%AF%B9%E6%AF%94.png)
+![api对比图](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/api%E5%AF%B9%E6%AF%94.png)
 
 
 ## setup 组件选项
@@ -105,7 +105,7 @@ export default defineComponent({
 
 **注意**：将值封装在一个对象中，看似没有必要，但为了保持 JavaScript 中不同数据类型的行为统一，这是必须的。这是因为在 JavaScript 中，`Number` 或 `String` 等基本类型是通过值而非引用传递的。
 
-![ref](https://gitee.com/fy0829/pics/raw/master/Vue/ref.gif)
+![ref](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/ref.gif)
 
 在任何值周围都有一个封装对象，这样我们就可以在整个应用中安全地传递它，而不必担心在某个地方失去它的响应性。
 

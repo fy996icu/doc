@@ -113,4 +113,4 @@ const Wrap = () => {
 export default Wrap;
 ```
 
-![img](https://gitee.com/fy0829/pics/raw/master/React/useReducer-redux.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/useReducer-redux.png)

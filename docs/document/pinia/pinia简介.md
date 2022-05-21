@@ -42,8 +42,8 @@
 
 **图解 Pinia**
 
-![img](https://gitee.com/fy0829/pics/raw/master/Pinia/pinia-01.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/pinia-01.png)
 
 **对比 Vuex**
 
-![img](https://gitee.com/fy0829/pics/raw/master/Pinia/pinia-02.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/pinia-02.png)

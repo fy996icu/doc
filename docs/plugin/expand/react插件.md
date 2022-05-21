@@ -12,7 +12,7 @@ $ yarn add ahooks
 
 **插件简介：** 一套高质量可靠的 React Hooks 库。 
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/ahooks.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/ahooks.png)
 
 ## 拖放界面
 
@@ -26,7 +26,7 @@ $ yarn add react-dnd react-dnd-html5-backend
 
 **插件简介：** React DnD 是一组 React 实用程序，可帮助您构建复杂的拖放界面，同时保持组件解耦。它非常适合 Trello 和 Storify 等应用程序，在应用程序的不同部分之间通过拖动传输数据，并且组件会更改其外观和应用程序状态以响应拖放事件。
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/react-dnd.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/react-dnd.png)
 
 ## 拖拽排序
 
@@ -41,7 +41,7 @@ $ yarn add -D @types/sortablejs
 
 **在线示例：** [点击查看示例](https://sortablejs.github.io/Sortable/#shared-lists)
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/sortablejs.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/sortablejs.png)
 
 ## 全屏滚动插件
 
@@ -53,7 +53,7 @@ $ yarn add @fullpage/react-fullpage
 
 **在线示例：** [点击查看示例](https://alvarotrigo.com/react-fullpage/#page1)
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/react-fullpage.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/react-fullpage.png)
 
 ## 表单插件
 
@@ -65,7 +65,7 @@ $ yarn add react-hook-form
 
 **在线示例：** [点击查看示例](https://www.react-hook-form.com/)
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/react-hook-form.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/react-hook-form.png)
 
 ## 表格插件
 
@@ -77,7 +77,7 @@ $ yarn add react-table
 
 **在线示例：** [点击查看示例](https://react-table.tanstack.com/)
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/react-table.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/react-table.png)
 
 ## 过渡动画
 
@@ -89,7 +89,7 @@ $ yarn add react-transition-group
 
 **在线示例：** [点击查看示例](https://reactcommunity.org/react-transition-group/)
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/react-transition-group.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/react-transition-group.png)
 
 ## 弹性动画库
 
@@ -101,7 +101,7 @@ $ yarn add react-motion
 
 **在线示例：** [点击查看示例](https://github.com/chenglou/react-motion#readme)
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/react-motion.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/react-motion.png)
 
 ## Plyr H5媒体播放器
 
@@ -117,7 +117,7 @@ $ yarn add plyr-react
 
 **插件简介：** Plyr 是一个简单、轻量级、可访问和可定制的 HTML5、YouTube 和 Vimeo 媒体播放器，支持现代浏览器。
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/plyr.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/plyr.png)
 
 
 ## 栅格布局系统
@@ -132,7 +132,7 @@ $ yarn add react-grid-layout
 
 **插件简介：** React-Grid-Layout 是一个类似于Packery或 Gridster的网格布局系统，用于 React。 
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/react-grid-layout.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/react-grid-layout.png)
 
 ## 创建浮动元素
 
@@ -146,4 +146,4 @@ $ yarn add @floating-ui/react-dom
 
 **插件简介：** Floating UI 是一个用于创建浮动元素的低级工具包。工具提示、弹出框、下拉菜单、菜单等。
 
-![img](https://gitee.com/fy0829/pics/raw/master/example/floating-ui.png)
+![img](https://cdn.jsdelivr.net/gh/fy996icu/pics/img/floating-ui.png)
