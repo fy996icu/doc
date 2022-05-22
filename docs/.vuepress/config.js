@@ -17,7 +17,7 @@ const {
   resources
 } = require('./sidebar/index')
 module.exports = {
-  base: "/doc/",
+  base: "/blog/",
   lang: 'zh-CN',
   dest: "./dist",
   title: '长方体混泥土瞬间移动师',
