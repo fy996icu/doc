@@ -1,1 +1,0 @@
-import{e,o as r,j as t}from"./app.4985c1a7.js";import{_ as n}from"./plugin-vue_export-helper.21dcd24c.js";const c={};function _(s,a){const o=e("HomeFooter");return r(),t(o)}var p=n(c,[["render",_]]);export{p as default};
